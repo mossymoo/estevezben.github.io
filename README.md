@@ -3,10 +3,12 @@
 My name is Estevez Ben Lajamin and I'm a full stack web developer.
 You can reach me on [Twitter](https://twitter.com/mossy_moo) or [LinkedIn](https://www.linkedin.com/in/estevez-ben-lajamin-15ba8b1aa/)
 
-Currently, I am venturing into the world of system design.
+🌱 I’m currently learning ...
+CSS and Tailwindcss for frontend development and data engineering.
 
 ## Personal projects
 1. Weatly, place to easily track Sabah districts and islands weathers (https://weatly.casa)
+2. Immortal, the easy way to create a cluster of high availability servers
 
 
 
